@@ -15,8 +15,8 @@ Financial Technology (FinTech), Corporate Finance, Asset Pricing (Investment, Fi
 * 2021 Summer, Arizona State University
 * B.S. in Finance Core Curriculum
 * Mode: Hybrid (in-person & remote via Zoom)
-* Evaluation: 6.4/7.0 (29 responses out of 47 students) Link to Evaluation 6.4/7.0
-* Teaching Philosophy: Cater to Diverse Needs, Student Participation, and Real-World Applications
+* **Evaluation: 6.4/7.0** (29 responses out of 47 students) [**Link to Evaluation 6.4/7.0**](https://www.dropbox.com/scl/fi/ae5x1221vvgm21ymjfaep/TeachingEvaluation_2021Summer.pdf?rlkey=otb90q4iycv0ytz1q4406qejq&dl=0)
+* **Teaching Philosophy**: Cater to Diverse Needs, Student Participation, and Real-World Applications
 * Note: Teaching Statement is available upon request.
   
 ### Some Comments From My Students:
@@ -35,10 +35,10 @@ Financial Technology (FinTech), Corporate Finance, Asset Pricing (Investment, Fi
 ---
 
 # Design for Course Projects and Student Theses
-Note: my 21-page design is available upon request.
+**Note: my 21-page design is available upon request.**
 
 ## Investments, Portfolio Management, and Financial Markets
-[Link to A Sample Version of Design](https://www.dropbox.com/scl/fi/u3ykgnfjczki1kc7ac0do/Course_Design_and_Student_Thesis_Guidance_ASampleP1to7.pdf?rlkey=mt4jc4zoj5vmkglmnlb7zi1wo&dl=0)    
+[**Link to A Sample Version of Design**](https://www.dropbox.com/scl/fi/u3ykgnfjczki1kc7ac0do/Course_Design_and_Student_Thesis_Guidance_ASampleP1to7.pdf?rlkey=mt4jc4zoj5vmkglmnlb7zi1wo&dl=0)    
 * HW1: Replication Fama-French Six Factors (Mkt, Size, Value, Investment, Profitability, & Momentum)
 * HW2: Fama-MacBeth Regression: are risk factors priced?
 * HW3: Portfolio Performance Benchmarks: DGTW (1997).
