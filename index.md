@@ -12,9 +12,9 @@ title: "Bo Li Home Page"
 I am a Postdoctoral Fellow in Finance at Scheller College of Business, Georgia Institute of Technology. I obtained a Ph.D. in Finance at the W.P. Carey School of Business, Arizona State University, in May 2024.  
 * __Email__: [bli96@gatech.edu](bli96@gatech.edu)
 * __Academic Website__:   
-    * Google Site: [https://sites.google.com/view/boli-finance](https://sites.google.com/view/boli-finance)    
-    * Github: [https://bolifinance.github.io/](https://bolifinance.github.io/)    
-    * Website: [https://www.boli-finance.com/](https://www.boli-finance.com/)    
+    * __Google Site__: [https://sites.google.com/view/boli-finance](https://sites.google.com/view/boli-finance)    
+    * __Github__: [https://bolifinance.github.io/](https://bolifinance.github.io/)    
+    * __Website__: [https://www.boli-finance.com/](https://www.boli-finance.com/)    
       
 ## Research Interest:
 __Primary__: Real Estate Finance, Household Finance, and Banking    
