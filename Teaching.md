@@ -19,6 +19,7 @@ Georgia Tech, Spring 2025, Section B (Tu&Th)
 ### Office Hours: 
 * **Friday Afternoon: 3 pm - 10 pm**
 * **On-site & Online Meeting for All: Friday 3 pm - 7 pm**. I will open **Zoom** and **Slack** simultaneously.
+ * **Location**: CODA building (next to Scheller College of Business) 2nd Floor Open Area. Click [this link to see a photo](https://www.dropbox.com/scl/fi/i6lr9o1ezf7seazp0ksl6/CODA-Building-2nd-Floor-Open-Area.jpg?rlkey=9n98vhwtsvssruxo9271350n2&st=pjdq7r1n&dl=0). 
   * **Suggestions**: If you see a few people waiting in line, it is better to check in Class Slack Workspace #office-hour-questions to claim your waiting order (simply saying, "I arrive in office hour in person right now"). 
 * **Individual Appointment (via Zoom)**: please try to book a half-hour session **between 7 pm and 10 pm** on Friday via [this Calendly link](https://calendly.com/libo-application/30min).  
   * **Suggestion**: Start by selecting later slots to avoid potential time conflicts in case 3 pm - 7 pm office hours need an extension. 
