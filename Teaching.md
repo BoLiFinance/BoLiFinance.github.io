@@ -19,12 +19,12 @@ Georgia Tech, Spring 2025, Section B (Tu&Th)
 ### Office Hours: 
 * **Friday Afternoon: 3 pm - 10 pm**
 * **On-site & Online Meeting for All: Friday 3 pm - 7 pm**. I will open **Zoom** and **Slack** simultaneously.
-** **Suggestions**: If you see a few people waiting in line, it is better to check in Class Slack Workspace #office-hour-questions to claim your waiting order (simply saying, "I arrive in office hour in person right now"). 
+  * **Suggestions**: If you see a few people waiting in line, it is better to check in Class Slack Workspace #office-hour-questions to claim your waiting order (simply saying, "I arrive in office hour in person right now"). 
 * **Individual Appointment (via Zoom)**: please try to book a half-hour session **between 7 pm and 10 pm** on Friday via [this Calendly link](https://calendly.com/libo-application/30min).  
-** **Suggestion**: Start by selecting later slots to avoid potential time conflicts in case 3 pm - 7 pm office hours need an extension. 
+  * **Suggestion**: Start by selecting later slots to avoid potential time conflicts in case 3 pm - 7 pm office hours need an extension. 
 * **Class Slack Workspace**: this is set for students to help with each other, group discussions, and information sharing. I will check the Slack Workspace every Tuesday night and Friday during office hours. Click [this link to join Course Slack Workspace](https://join.slack.com/t/gtmgt4074b-spring25/signup). 
-** **Suggestion**: Save snapshots when you answer others' questions. Five snapshots can add 1 point (maximum allowed) for participation. 
-** **Note**: I will buy my dinner during idle time around 7 pm (takes 15 minutes). I will leave a message on Slack. 
+  * **Suggestion**: Save snapshots when you answer others' questions. Five snapshots can add 1 point (maximum allowed) for participation. 
+  * **Note**: I will buy my dinner during idle time around 7 pm (takes 15 minutes). I will leave a message on Slack. 
 
 
 
