@@ -25,8 +25,8 @@ Georgia Tech, Spring 2025, Section B (Tu&Th)
 * **Class Piazza Platform**:
   * **Piazza** is a Platform designed for Questions & Answers in classes. Each question will be traced and marked as “unresolved” before a good answer. I will check the Piazza Platform every Tuesday night and Friday during office hours. 
   * **Suggestion**: Save snapshots when you answer others' questions. Five snapshots can add 1 point (maximum allowed) for participation. 
-  * **Note**: I will buy my dinner during idle time around 7 pm (takes 15 minutes). I will leave a message on Piazza. 
-
+  * **Note**: I will buy my dinner during idle time around 7 pm (takes 15 minutes). I will leave a message on Piazza.
+* **TA Office Hour**: Tu 3:30 pm - 5 pm on Zoom in Canva. 
 
 
 ---
