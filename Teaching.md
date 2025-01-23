@@ -22,7 +22,8 @@ Georgia Tech, Spring 2025, Section B (Tu&Th)
   * **Location**: mostly on **Zoom** and **Piazza** (in Canvas). If you need to meet me in my office, send an email (bli96@gatech.edu), and we can schedule the meeting between 3 pm - 7 pm.
 * **Individual Appointment (via Zoom)**: please try to book a half-hour session **between 7 pm and 10 pm** on Friday via [this Calendly link](https://calendly.com/libo-application/30min).  
   * **Suggestion**: Start by selecting later slots to avoid potential time conflicts in case 3 pm - 7 pm office hours need an extension. 
-* **Class Piazza Platform**: this is set for students to help with each other, group discussions, and information sharing. I will check the Piazza Platform every Tuesday night and Friday during office hours. Piazza is a Platform designed for Questions & Answers in classes. Each question will be traced and marked as "unresolved" before a good answer. 
+* **Class Piazza Platform**:
+  * **Piazza** is a Platform designed for Questions & Answers in classes. Each question will be traced and marked as “unresolved” before a good answer. I will check the Piazza Platform every Tuesday night and Friday during office hours. 
   * **Suggestion**: Save snapshots when you answer others' questions. Five snapshots can add 1 point (maximum allowed) for participation. 
   * **Note**: I will buy my dinner during idle time around 7 pm (takes 15 minutes). I will leave a message on Piazza. 
 
