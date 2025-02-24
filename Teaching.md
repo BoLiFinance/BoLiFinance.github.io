@@ -15,7 +15,7 @@ Georgia Tech, Spring 2025, Section B (Tu&Th)
 ### Topics: 
 * **Part I. Overview**: Technology and Finance, Current Finance Industry, How Technology Transformed Finance Industry. 
 * **Part II. Technology**: Blockchain, Cryptocurrencies, Smart Contracts, Tokens, Decentralized Finance, Risk, Frauds, and Government Regulation. 
-* **Part III. How Has Technology Transformed Financial Sectors**: Payment System, Credit & Lending, Trading & Capital Markets, Insurance, and Digital Banking.
+* **Part III. How Has Technology Transformed Financial Sectors**: Payment System, Credit & Lending, Trading & Capital Markets, Insurance, and Digital Banking.  
 ### Office Hours:
 * **Friday Afternoon: 3 pm - 10 pm**
 * **On-site & Online Meeting for All: Friday 3 pm - 7 pm**. I will open **Zoom** and **Piazza** (in Canvas) simultaneously.
