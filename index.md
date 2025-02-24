@@ -10,6 +10,7 @@ title: "Bo Li Home Page"
            
 # Welcome to my website! I am Bo Li
 I am a Postdoctoral Fellow in Finance at Scheller College of Business, Georgia Institute of Technology. I obtained a Ph.D. in Finance at the W.P. Carey School of Business, Arizona State University, in May 2024.  
+* __Profile__: [**Link to my CV**](/files/GitHub_GoogleSite_ModernCV_BoLi_Aug_2024.pdf)     
 * __Email__: [bli96@gatech.edu](bli96@gatech.edu)
 * __Academic Website__:   
     * __Google Site__: [https://sites.google.com/view/boli-finance](https://sites.google.com/view/boli-finance)    
@@ -19,7 +20,6 @@ I am a Postdoctoral Fellow in Finance at Scheller College of Business, Georgia I
 ## Research Interest:
 __Primary__: Real Estate Finance, Household Finance, and Banking    
 __Secondary__: Business Cycle and Inequality     
-__Profile__: [**Link to my CV**](/files/CV_Complete_BoLi_Aug2024[GoogleSite]_FullVersion.pdf)     
 
 ## Georgia Tech Advisor:   
 Sudheer Chava [Website](https://www.scheller.gatech.edu/directory/faculty/chava/index.html); Email: sudheer.chava@scheller.gatech.edu  
