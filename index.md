@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Bo Li Home Page"
+title: "Bo Li's Academic Home Page"
 ---
 
 <img src="/images/BoLiHeadshot_GTSchellerCollegeOfBusiness.png" alt="Alt Text" width="840">
